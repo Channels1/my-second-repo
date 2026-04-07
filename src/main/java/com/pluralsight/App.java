@@ -6,5 +6,6 @@ public class App {
         System.out.println("Fish pog Fish pog fish Pog");
         System.out.println("Buzz Buzz Buzz");
         System.out.println("Another one");
+        System.out.println("WE LOVE LAIN!");
     }
 }
